@@ -7,6 +7,7 @@ pragma solidity 0.8.19;
 
 contract SimpleStorage {
     uint256 myFavoriteNumber;
+    uint256 myFavoriteNumber2;
 
     struct Person {
         uint256 favoriteNumber;
